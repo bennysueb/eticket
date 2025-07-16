@@ -1,0 +1,30 @@
+.scanner-box {
+    margin-bottom: 20px;
+}
+
+.scanner-box input {
+    padding: 15px;
+    width: 400px;
+    font-size: 18px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+}
+
+.welcome-box {
+    background: #4CAF50;
+    color: #fff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.welcome-box h1 {
+    margin: 0 0 10px;
+    font-size: 32px;
+}
+
+.welcome-box p {
+    margin: 5px 0;
+    font-size: 20px;
+}
